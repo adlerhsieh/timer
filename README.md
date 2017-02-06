@@ -10,7 +10,7 @@ go get github.com/adlerhsieh/timer
 
 ## Example
 
-```
+```go
 package main
 
 import(
